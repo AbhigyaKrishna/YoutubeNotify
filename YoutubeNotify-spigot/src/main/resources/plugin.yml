@@ -1,0 +1,4 @@
+name: YoutubeNotify
+version: '${project.version}'
+main: com.aerialdev.youtubenotify.YoutubeNotify
+api-version: 1.17

@@ -1,0 +1,3 @@
+name: YoutubeNotify
+version: '${project.version}'
+main: com.aerialdev.youtubenotify.YoutubeNotify
